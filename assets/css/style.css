@@ -6289,8 +6289,6 @@ del {
     display: block;
     max-width: 100%;
     height: auto;
-    border: 2px solid white;
-    border-radius: 12px;
-    padding: 5px;
+
     padding-bottom: 10px;   
    }
